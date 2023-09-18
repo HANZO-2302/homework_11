@@ -39,5 +39,3 @@ else:
 # [7, 3, 7, 7, 5, 5, 6, 6]
 # [4, 5, 6, 3, 1, 6, 7, 3]
 # True
-def chess():
-	return None
